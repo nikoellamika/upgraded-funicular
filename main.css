@@ -1,0 +1,21 @@
+body{
+background-color: #FFECF2
+}
+h1{
+
+}
+.post{
+	width:30%;
+	display:inline-block;
+	border:solid 2px #A90052;
+	background-color:#FFDAE2;
+	padding:10px;
+	margin-bottom:10px;
+	color:#E47AAE
+}
+.post-title{
+	color:#A90052
+}
+.post-img{
+	width:80%
+}
